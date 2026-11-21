@@ -1,0 +1,6 @@
+{
+  "name": "Sarb Academy — Stack vs Heap Reel Studio",
+  "description": "استوديو إنتاج وتصدير فيديو موشن جرافيك عمودي (9:16) لدرس الـ Stack والـ Heap بهوية أكاديمية سَرب.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
